@@ -22,5 +22,5 @@ full-time security people! We have NO DUES and NO PUSHY SALESPEOPLE! Some
 times we'll have a short presentation if someone is willing to share 
 knowledge! Afterwards we may have a discussion on what was put together.
 
-We've moved into Galway City proper! Based on everyone's ability to attend
-we're now at Murty Rabbit's on the last Saturday of the month. See ya there!
+We've moved into Galway City proper! Based on everyone's location & bus schedules
+we're now at Murty Rabbit's on the last Sunday of the month. See ya there!
