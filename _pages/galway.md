@@ -9,6 +9,7 @@ gmaps_link: https://maps.app.goo.gl/rXi3mmBQYeboCdRUA
 location: Murty Rabbit's
 event_image: /assets/images/galaway-road-sign.png
 twitter_handle: BurbSecGalway
+Bluesky_handle: @burbsecgalway.bsky.social
 # If you want to overload the default meetup link, update this
 # with the new location.
 #meetup_page: https://google.com
@@ -16,11 +17,13 @@ twitter_handle: BurbSecGalway
 
 Burbsec Galway is an informal meetup of Information Security enthusiasts,
 engineers, coders, hackers, geeks, and anyone interested in being more 
-secure! Each month brings new discussions & maybe even some learning. 
-We're still small but growing, with people from all walks of life or even
-full-time security people! We have NO DUES and NO PUSHY SALESPEOPLE! Some
-times we'll have a short presentation if someone is willing to share 
-knowledge! Afterwards we may have a discussion on what was put together.
+secure on the west coast of Ireland! Each month brings new discussions 
+& maybe even some learning. We're still small but growing, with people 
+from all walks of life or even full-time security people! We have NO DUES 
+and NO PUSHY SALESPEOPLE! Occasionally we may have a short presentation 
+if someone is willing to share knowledge! Afterwards we may have a 
+discussion on what was put together.
 
 We've moved into Galway City proper! Based on everyone's ability to attend
-we're now at Murty Rabbit's on the last Saturday of the month. See ya there!
+we're now at Murty Rabbit's on the last Sunday of the month. See ya there!
+![New-galaway-road-sign](https://github.com/user-attachments/assets/2fd1dff6-7d6b-412d-80f0-e92e88ec5a18)
